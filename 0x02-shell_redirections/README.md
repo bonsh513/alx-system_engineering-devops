@@ -1,1 +1,2 @@
-shell redirections from no.1 to no.22
+0-hello_world
+1-confused_smile
